@@ -24,9 +24,11 @@ if __name__ == '__main__':
         keywords = ['Virtual', 'vmware', 'ESX', 'ESXi', 'VMGuestLib', 'SDK', 'API'],
         classifiers = [
             'Programming Language :: Python',
-            'Programming Language :: Python :: 2.5',
             'Programming Language :: Python :: 2.6',
             'Programming Language :: Python :: 2.7',
+            'Programming Language :: Python :: 3',
+            'Programming Language :: Python :: 3.7',
+            'Programming Language :: Python :: 3.8',
             'Operating System :: OS Independent',
             'Development Status :: 5 - Production/Stable',
             'Environment :: Other Environment',
